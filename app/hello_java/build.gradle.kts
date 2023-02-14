@@ -3,7 +3,6 @@ plugins {
 	id("org.springframework.boot") version "2.0.3.RELEASE"
 	id("io.spring.dependency-management") version "1.1.0"
 	id("com.bmuschko.docker-spring-boot-application") version "9.1.0"
-
 }
 
 
